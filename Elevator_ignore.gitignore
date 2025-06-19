@@ -1,0 +1,27 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# IDE文件
+.vscode/settings.json
+.idea/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 大型数据文件（可选）
+*.rar
+*.zip
+参考文献/
+三国演义/
+文章/
